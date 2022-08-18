@@ -1,0 +1,39 @@
+{
+	"name": "mui-color-wdb-mod",
+	"version": "2.0.3-mod",
+	"description": "The lightest colorpicker for React Mui v5. No dependencies. It uses Hooks and support Typescript, and more !",
+	"main": "index.js",
+	"module": "./esm/index.js",
+	"typings": "index.d.ts",
+	"keywords": [
+		"react",
+		"color picker",
+		"react-component",
+		"colorpicker",
+		"picker",
+		"tiny",
+		"color",
+		"mui",
+		"material-ui",
+		"material design",
+		"react-color",
+		"typescript"
+	],
+	"peerDependencies": {
+		"@emotion/react": "^11.5.0",
+		"@emotion/styled": "^11.3.0",
+		"@mui/material": "^5.2.2",
+		"@mui/styles": "^5.2.2",
+		"material-ui-popup-state": "^1.5.3",
+		"prop-types": "^15.7.2",
+		"react": "^16.0.0 || ^17.0.0",
+		"react-dom": "^16.0.0 || ^17.0.0"
+	},
+	"directories": {
+		"example": "examples",
+		"test": "test"
+	},
+	"dependencies": {
+		"@material-ui/styles": "^4.11.5"
+	}
+}
