@@ -1,7 +1,7 @@
 {
 	"name": "mui-color-wdb-mod",
-	"version": "2.0.8",
-	"description": "The lightest colorpicker for React Mui v5. No dependencies. It uses Hooks and support Typescript, and more !",
+	"version": "2.0.9",
+	"description": "This is a clone from mui-color created by William Neves for a individual project. The changes are on the ColorPicker component.",
 	"main": "index.js",
 	"module": "./esm/index.js",
 	"typings": "index.d.ts",
